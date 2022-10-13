@@ -6,7 +6,7 @@ Inherits from the base PyTorch _LRScheduler class and supports standard flags li
 
 <b>Note:</b> It is not a package currently and is primarily given here as a resource for people to use.
 
-<p align='center'><img src="https://user-images.githubusercontent.com/32918812/195468405-40448b88-4c2d-4d20-a11b-39a4e6d70d25.png" alt="latent variable schematic" /></p>
+<p align='center'><img src="https://user-images.githubusercontent.com/32918812/195471927-20285c82-4b01-4992-8a5e-678564b9fad3.png" alt="visualization of LR over time" /></p>
 <p align='center'>Fig 1. Learning rate values over 120k iterations with a <code>T_0</code> of 10k and a <code>decay</code> of 0.75.</p>
 
 ## Usage
